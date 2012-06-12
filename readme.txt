@@ -1,1 +1,1 @@
-yo
+This repository is used to hold a collection of useful coding tidbits that solve a variety of problems.
